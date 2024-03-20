@@ -63,12 +63,28 @@ python __run__.py
 **Here's some screenshots of this tools which i have used in my own Termux**
 
 </p>
+<h2>Vide Demo : </h2><br><br>
+
+<center>
+<video width="300" autoplay controls>
+  <source src="video-demo.mp4" type="video/mp4">
+</video>
+<center>
+
+
 <center>
 <img src="images/S1.jpg" width="300" height="300"/><br>
 <img src="images/S2.jpg" width="300" height="300"/><br>
 <img src="images/S3.jpg" width="300" height="300"/><br>
 <img src="images/S4.jpg" width="300" height="300"/>
 </center>
+<br><br>
+
+
+
+<!--
+[![Alt text for the video](images/S1.jpg)](video-demo.mp4)
+-->
 
 ---
 
