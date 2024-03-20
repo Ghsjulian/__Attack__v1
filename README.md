@@ -82,9 +82,9 @@ python __run__.py
 
 
 
-<!--
+
 [![Alt text for the video](images/S1.jpg)](video-demo.mp4)
--->
+
 
 ---
 
